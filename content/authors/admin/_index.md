@@ -128,7 +128,7 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Fecal Floatation (FEC)
+      - name: Fecal Floatation
         description: ''
         percent: 60
         # icon: person-simple-walk
