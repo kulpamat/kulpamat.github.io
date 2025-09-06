@@ -62,9 +62,9 @@ education:
     date_end: 2025-12-31
     summary: |
     Thesis on Onchocercidae cryptic biodiversity of wild North American ungulates and developing novel molecular approaches
-#    button:
-#      text: 'Read Thesis'
-#      url: 'https://example.com'
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com'
   - area: DVM Veterinary Medicine
     institution: Michigan State University
     date_start: 2016-01-01
