@@ -51,7 +51,7 @@ profiles:
 interests:
   - Veterinary parasitology
   - Wildlife disease
-  - One health
+  - One Health
   - Molecular diagnostics
   - Evolution
 
@@ -70,12 +70,7 @@ education:
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.8/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: MS Biology
     institution: Bowling Green State University
     date_start: 2012-08-20
@@ -186,5 +181,5 @@ awards:
 
 ## About Me
 
-Matthew Kulpa is a a licensed veterinarian and Ph.D. candidate in the Department of Veterinary Pathobiology in the School of Veterinary Medicine & Biomedical Sciences. He works with the the Verocai Lab research group which studies helminth parasitology to better understand the world’s biodiversity and improve health while advancing
+Matthew Kulpa is a licensed veterinarian and Ph.D. candidate in the Department of Veterinary Pathobiology in the School of Veterinary Medicine & Biomedical Sciences. He works with the  Verocai Lab research team which studies helminth parasitology to better understand the world’s biodiversity and improve health while advancing
 diagnostic tools for detecting infections of domestic animals, wildlife, and humans. He strives to be a scientific and research leader and in the field of One Health.
