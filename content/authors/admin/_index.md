@@ -115,7 +115,7 @@ skills:
       - name: DNA extraction/purification, cPCR, qPCR, Deep amplicon sequencing
         description: ''
         percent: 80
-        icon: ''
+#        icon: ''
       - name: Data Science
         description: ''
         percent: 100
