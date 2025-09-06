@@ -46,18 +46,18 @@ hugoblox:
 
 # Custom links
 links:
-  - type: pdf
-    url: ""
-  - type: code
-    url: https://github.com/HugoBlox/hugo-blox-builder
-  - type: dataset
-    url: https://github.com/HugoBlox/hugo-blox-builder
+#  - type: pdf
+#    url: ""
+#  - type: code
+#    url: https://github.com/HugoBlox/hugo-blox-builder
+#  - type: dataset
+#    url: https://github.com/HugoBlox/hugo-blox-builder
   - type: slides
     url: https://www.slideshare.net/
-  - type: source
-    url: https://github.com/HugoBlox/hugo-blox-builder
-  - type: video
-    url: https://youtube.com
+#  - type: source
+#    url: https://github.com/HugoBlox/hugo-blox-builder
+#  - type: video
+#    url: https://youtube.com
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
