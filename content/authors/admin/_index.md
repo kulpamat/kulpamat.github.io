@@ -61,7 +61,7 @@ education:
     date_start: 2020-08-01
     date_end: 2025-12-31
     summary: |
-    Thesis on Onchocercidae cryptic biodiversity of wild North American ungulates and developing novel molecular approaches
+      Thesis on Onchocercidae cryptic biodiversity of wild North American ungulates and developing novel molecular approaches
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
