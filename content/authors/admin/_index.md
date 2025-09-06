@@ -114,55 +114,58 @@ skills:
       - name: DNA extraction/purification
         description: ''
         percent: 80
-#        icon: ''
+        # icon: ''
       - name: cPCR, qPCR, Deep amplicon sequencing
         description: ''
         percent: 100
-#        icon: chart-bar
-#      - name: SQL
-#        description: ''
-#        percent: 40
-#        icon: circle-stack
+        # icon: chart-bar
+      # - name: SQL
+      #   description: ''
+      #   percent: 40
+      #   icon: circle-stack
+
   - name: Diagnostic 
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Fecal Floatation  (FEC)
+      - name: Fecal Floatation (FEC)
         description: ''
         percent: 60
-#        icon: person-simple-walk
+        # icon: person-simple-walk
       - name: Modified McMaster
         description: ''
         percent: 100
- #       icon: cat
+        # icon: cat
       - name: Mini-FLOTAC
         description: ''
         percent: 80
-  #      icon: camera
+        # icon: camera
       - name: Modified Knott’s
         description: ''
         percent: 80
-  #      icon: camera
-   - name: Software
+        # icon: camera
+
+  - name: Software
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: R Studio   
+      - name: R Studio
         description: ''
         percent: 60
-#        icon: person-simple-walk
+        # icon: person-simple-walk
       - name: ArcGIS
         description: ''
         percent: 100
- #       icon: cat
+        # icon: cat
       - name: DADA2/Mothur
         description: ''
         percent: 80
-  #      icon: camera
+        # icon: camera
       - name: SnapGene
         description: ''
         percent: 80
-  #      icon: camera
+        # icon: camera
+
 languages:
   - name: English
     percent: 100
