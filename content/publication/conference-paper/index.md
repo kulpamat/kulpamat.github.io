@@ -6,34 +6,38 @@ title: 'An example conference paper'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+#  - Robert Ford
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+#  - 'Equal contribution'
+#  - 'Equal contribution'
 
 date: '2013-07-01T00:00:00Z'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2025-01-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ['article']
+# paper-conference
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: In *International Journal of Parasitology*
+publication_short: In *IJP*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Onchocerca is an important genus of vector-borne filarial nematodes that infect both humans and animals worldwide. Many Onchocerca spp., most of medical and veterinary health relevance, are the focus of a variety of diagnostic and molecular research. However, despite the importance of these parasites, there is growing evidence of previously unexplored genetic diversity of these nematodes, particularly among wild ungulate hosts in North America. These understudied parasites prevent us from comprehending the evolutionary history of the genus Onchocerca, monitoring potential One Health threats, and improving our filarioid diagnostic capabilities. In order to fill these knowledge gaps, we identified five uncharacterized Onchocerca lineages and compared them with other well-known filarioid species using single and concatenated gene regions.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Characterizing  five previosly unknown Onchocerca species from wild North American ungulates and evauluating their evolutionary history and historical biogeography.
 
 tags:
-  - Large Language Models
+  - Onchocerca
+  - wild cervids
+  - molecular evolution
+  - North America
 
 # Display this page in the Featured widget?
 featured: true
@@ -41,7 +45,7 @@ featured: true
 # Standard identifiers for auto-linking
 hugoblox:
   ids:
-    doi: 10.5555/123456
+    doi: 10.1016
 
 # Custom links
 links:
