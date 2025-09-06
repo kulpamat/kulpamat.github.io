@@ -66,7 +66,7 @@ education:
       text: 'Read Thesis'
       url: 'https://example.com'
   - area: DVM Veterinary Medicine
-    institution: Massachusetts State University
+    institution: Michigan State University
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
