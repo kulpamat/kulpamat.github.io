@@ -110,7 +110,7 @@ education:
 # Add your own SVG icons to `assets/media/icons/`
 
 skills:
-  - name: Molecular 
+  - name: Molecular
     items:
       - name: DNA extraction/purification
         description: ''
