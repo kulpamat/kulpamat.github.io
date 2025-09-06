@@ -109,37 +109,60 @@ education:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Molecular Skills
+  - name: Molecular 
     items:
-      - name: DNA extraction/purification, cPCR, qPCR, Deep amplicon sequencing
+      - name: DNA extraction/purification
         description: ''
         percent: 80
 #        icon: ''
-      - name: Data Science
+      - name: cPCR, qPCR, Deep amplicon sequencing
         description: ''
         percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
+#        icon: chart-bar
+#      - name: SQL
+#        description: ''
+#        percent: 40
+#        icon: circle-stack
+  - name: Diagnostic 
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Fecal Floatation  (FEC)
         description: ''
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
+#        icon: person-simple-walk
+      - name: Modified McMaster
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+ #       icon: cat
+      - name: Mini-FLOTAC
         description: ''
         percent: 80
-        icon: camera
-
+  #      icon: camera
+      - name: Modified Knott’s
+        description: ''
+        percent: 80
+  #      icon: camera
+   - name: Software
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: R Studio   
+        description: ''
+        percent: 60
+#        icon: person-simple-walk
+      - name: ArcGIS
+        description: ''
+        percent: 100
+ #       icon: cat
+      - name: DADA2/Mothur
+        description: ''
+        percent: 80
+  #      icon: camera
+      - name: SnapGene
+        description: ''
+        percent: 80
+  #      icon: camera
 languages:
   - name: English
     percent: 100
