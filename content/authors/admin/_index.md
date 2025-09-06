@@ -38,17 +38,16 @@ profiles:
     label: E-mail Me
 #  - icon: brands/x
 #    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
+#  - icon: brands/instagram
+#    url: https://www.instagram.com/
+#  - icon: brands/github
+ #   url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/matthew-kulpa-33ba11100
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://https://scholar.google.com/citations?user=0e0ugC4AAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
-
+    url: https://orcid.org/my-orcid?orcid=0000-0002-4713-4810
 interests:
   - Veterinary parasitology
   - Wildlife disease
@@ -57,7 +56,7 @@ interests:
   - Evolution
 
 education:
-  - area: PhD Biomedical 
+  - area: PhD Biomedical Sciences
     institution: Texas A&M University
     date_start: 2020-08-01
     date_end: 2025-12-31
@@ -66,8 +65,8 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: DVM Veterinary Medicine
+    institution: Massachusetts State University
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -77,17 +76,16 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MS Biology
+    institution: Bowling Green State University
+    date_start: 2012-08-20
+    date_end: 2014-12-31
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BS Zoology
+    institution: Michgan State Univeristy
+    date_start: 2006-08-20
+    date_end: 2011-12-11
+    summary: |
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -188,4 +186,5 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Matthew Kulpa is a a licensed veterinarian and Ph.D. candidate in the Department of Veterinary Pathobiology in the School of Veterinary Medicine & Biomedical Sciences. He works with the the Verocai Lab research group which studies helminth parasitology to better understand the world’s biodiversity and improve health while advancing
+diagnostic tools for detecting infections of domestic animals, wildlife, and humans. He strives to be a scientific and research leader and in the field of One Health.
