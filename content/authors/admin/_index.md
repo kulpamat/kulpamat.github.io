@@ -23,12 +23,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD Candidate
+role: Postdoctoral Research Associate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Verocai Lab at Texas A&M University
-    url: https://vetmed.tamu.edu/verocai-lab/
+  - name: DOLF Project Lab at Washington University, St. Louis
+    url: (https://dolfproject.wustl.edu/)
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -50,8 +50,8 @@ profiles:
     url: https://orcid.org/my-orcid?orcid=0000-0002-4713-4810
 interests:
   - Veterinary parasitology
-  - Wildlife disease
   - One Health
+  - Wildlife disease
   - Molecular diagnostics
   - Evolution
 
@@ -208,5 +208,4 @@ awards:
 
 ## About Me
 
-Matthew Kulpa is a licensed veterinarian and Ph.D. candidate in the Department of Veterinary Pathobiology in the School of Veterinary Medicine & Biomedical Sciences. He works with the  Verocai Lab research team which studies helminth parasitology to better understand the world’s biodiversity and improve health while advancing
-diagnostic tools for detecting infections of domestic animals, wildlife, and humans. He strives to be a scientific and research leader and in the field of One Health.
+Matthew Kulpa is a licensed veterinarian and research scientist at WashU Medicine's Death to Onchocerciasis & Lymphatic Filariasis (DOLF) Project. He works with the Molecular Helminthology Lab to improve the health of both humans and animals alongside some of the foremost experts in onchocerciasis and lymphatic filariasis elimination. He strives to be a scientific and research leader and in the field of One Health.
